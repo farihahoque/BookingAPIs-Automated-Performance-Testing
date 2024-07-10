@@ -31,7 +31,7 @@ Variable value: C:\jmeter\apache-jmeter-x.x (replace with the actual path where 
 Find the "Path" variable under "System Variables", select it, and click "Edit".
 Click "New" and add the path to JMeter's bin directory (e.g., C:\jmeter\apache-jmeter-x.x\bin).
 
--Verify the Installation:
+- Verify the Installation:
 Open Command Prompt.
 Type jmeter -v and press Enter.
 If installed correctly, you will see the JMeter version information.
