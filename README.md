@@ -4,9 +4,9 @@ This project demonstrates load testing using JMeter, involving PUT, POST, and GE
 ### **Features**
 
 - PUT, POST, GET Requests: Tests cover essential HTTP methods to ensure comprehensive API performance evaluation.
--Load Testing: Simulating multiple users accessing the API simultaneously to assess its ability to handle high traffic.
--Performance Metrics: Gathering and analyzing response times, throughput, and error rates using 600-1200 users.
--Report: Simulation is done from non-gui mode and reports are made.
+- Load Testing: Simulating multiple users accessing the API simultaneously to assess its ability to handle high traffic.
+- Performance Metrics: Gathering and analyzing response times, throughput, and error rates using 600-1200 users.
+- Report: Simulation is done from non-gui mode and reports are made.
 
 
 ### **Technology used:**
@@ -14,14 +14,14 @@ This project demonstrates load testing using JMeter, involving PUT, POST, and GE
 
 ### **Installation**
 
--Download JMeter:
+- Download JMeter:
 Go to the -Apache JMeter website.
 Download the latest version of JMeter (ZIP file).
 
--Extract the ZIP file:
+- Extract the ZIP file:
 Extract the downloaded ZIP file to a desired directory (e.g., C:\jmeter).
 
--Set Up Environment Variables:
+- Set Up Environment Variables:
 
 Open the Control Panel, go to System and Security > System > Advanced system settings.
 Click on "Environment Variables".
